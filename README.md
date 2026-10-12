@@ -1,7 +1,7 @@
 ## Hello! :3
 My name is Shahwaiz (you can call me shah!). I like to do some small coding projects, and am currently training to hopefully go to a hackathon soon. I'm currently learning on python and working on some python projects like a game. You can contact me by email at shxhwxiz@gmail.com (if you actually ever needed to contact me, lolz.)
 Anyways, that's about it! Thanks for reading my bio!
-[![wakatime](https://wakatime.com/badge/user/06921f76-6ff3-4c7d-83ed-59d1b54597f8/project/65ae94a5-4747-4586-982f-53260563db21.svg)](https://wakatime.com/badge/user/06921f76-6ff3-4c7d-83ed-59d1b54597f8/project/65ae94a5-4747-4586-982f-53260563db21)
+[![wakatime](https://wakatime.com/badge/user/06921f76-6ff3-4c7d-83ed-59d1b54597f8.svg)](https://wakatime.com/@06921f76-6ff3-4c7d-83ed-59d1b54597f8)
 <!--
 **shxhwxiz/shxhwxiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
